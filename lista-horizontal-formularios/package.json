@@ -1,0 +1,28 @@
+{
+  "name": "lista-horizontal-formularios",
+  "version": "1.0.0",
+  "description": "Projeto que implementa uma lista horizontal de micro-formulários com inputs para Nome Completo, Data de Nascimento e Sexo.",
+  "main": "src/App.tsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "formulários",
+    "carrossel"
+  ],
+  "author": "Seu Nome",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
