@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
-import 'atividades/rotas_protegidas.dart';
+import 'atividades/bottom_nav_com_tabs.dart';
 
 void main() {
-  runApp(const RotasProtegidasApp());
+  runApp(const BottomNavComTabsApp());
 }

@@ -83,9 +83,9 @@ class HomePage extends StatelessWidget {
                     context,
                     '/privada2',
                     arguments: {
-                      'nome': 'João da Silva',
-                      'dataNascimento': '01/01/1990',
-                      'telefone': '(11) 99999-9999',
+                      'nome': 'Maycon Garcia Silva',
+                      'dataNascimento': '24/03/2005',
+                      'telefone': '(64) 992675684',
                     },
                   ),
                   child: const Text('Ir para Privada 2 (com dados)'),
